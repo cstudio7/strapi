@@ -17,6 +17,9 @@
     },
     "article": {
       "type": "text"
+    },
+    "comment": {
+      "type": "text"
     }
   }
 }
